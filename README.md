@@ -40,8 +40,8 @@
 
 <br />
 [twitter]:http://twitter.com/_amrik_dutta
-[linkdin]:http://linkdin.com/amrik-dutta-15aa22190
-[instagram]:http://instagram.com/_amrik_dutta_
+[linkdin]:http://linkdin.com/amrik-dutta-15aa22190/
+[instagram]:http://instagram.com/_amrik_dutta_/
 [facebook]:http://facebook.com/amrik.dutta.7
 
 
